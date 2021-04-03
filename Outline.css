@@ -19,3 +19,6 @@
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
 }
+.material-icons.play_circle_filled:before {
+    content: "\e039";
+}
