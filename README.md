@@ -1,6 +1,6 @@
 <h1 align="center">Jellyfin Icons</h1>
 <div class="info">
-Wanna change your jellyfin fonts look? If yes, you can use this to easily change your Jellyfin icon look without any modifications to the internl config!!
+Wanna change your jellyfin icons look? If yes, you can use this to easily change your Jellyfin icon look without any modifications to the internl config!!
 <div class="setup">
 <h2 align="center">Setup/Installation</h2>
 <ul>
