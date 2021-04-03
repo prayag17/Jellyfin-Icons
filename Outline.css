@@ -22,3 +22,7 @@
 .material-icons.play_circle_filled:before {
     content: "\e039";
 }
+
+.material-icons.favorite:before {
+    content: "\e87e";
+}
