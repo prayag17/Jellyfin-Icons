@@ -26,3 +26,7 @@
 .material-icons.favorite:before {
     content: "\e87e";
 }
+
+.material-icons.info_outline:before {
+    content: "\e88e";
+}
