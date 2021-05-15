@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Material Icons Sharp';
+    font-family: 'Material Icons Sharp Github';
     font-style: normal;
     font-weight: 400;
-    src: url(https://prayag17.github.io/Jellyfin-Icons/Icons/Sharp.woff2) format('woff2') !important;
+    src: url('https://prayag17.github.io/Jellyfin-Icons/Icons/Sharp.woff2') format('woff2');
 }
 
 .material-icons {
-    font-family: 'Material Icons Sharp';
+    font-family: 'Material Icons Sharp Github';
     font-weight: normal;
     font-style: normal;
     line-height: 1;
