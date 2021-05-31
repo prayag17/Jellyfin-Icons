@@ -1,0 +1,379 @@
+@import url("https://pro.fontawesome.com/releases/v5.15.3/css/all.css");
+.material-icons {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 300;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    text-align: center;
+}
+
+.material-icons.menu:before {
+    content: "\f0c9";
+}
+
+.material-icons.sync_disabled:before {
+    content: "\f021";
+}
+
+.material-icons.sync:before {
+    content: "\f2f1";
+}
+
+.material-icons.cast:before {
+    content: "\f838";
+    font-family: "Font Awesome 5 Brands";
+}
+
+.material-icons.search:before {
+    content: "\f002";
+}
+
+.material-icons.home:before {
+    content: "\f015";
+}
+
+.material-icons.folder:before {
+    content: "\f07b";
+}
+
+.material-icons.video_library:before {
+    content: "\f3a0";
+}
+
+.material-icons.library_music:before {
+    content: "\f001";
+}
+
+.material-icons.tv:before {
+    content: "\f8e5";
+}
+
+.material-icons.exit_to_app:before {
+    content: "\f2f5";
+}
+
+.material-icons.play_arrow:before {
+    content: "\f04b";
+}
+
+.material-icons.get_app:before {
+    content: "\f019";
+}
+
+.material-icons.theaters:before {
+    content: "\f008";
+}
+
+.material-icons.explore:before {
+    content: "\f8ab";
+}
+
+.material-icons.shuffle:before {
+    content: "\f074";
+}
+
+.material-icons.delete:before {
+    content: "\f2ed";
+}
+
+.material-icons.stop:before {
+    content: "\f28d";
+}
+
+.material-icons.stop:before {
+    content: "\f28d";
+}
+
+.material-icons.favorite:before {
+    content: "\f004";
+}
+
+.material-icons.call_split:before {
+    content: "\f126";
+}
+
+.material-icons.arrow_back:before {
+    content: "\f060";
+}
+
+.material-icons.notifications::before {
+    content: "\f0f3";
+}
+
+.material-icons.notifications_active:before {
+    content: "\f8fa";
+}
+
+.material-icons.check:before {
+    content: "\f00c";
+}
+
+.material-icons.more_vert:before {
+    content: "\f39c";
+}
+
+.material-icons.dashboard:before {
+    content: "\f3fd";
+}
+
+.material-icons.edit:before,
+.material-icons.mode_edit:before {
+    content: "\f044";
+}
+
+.material-icons.settings:before {
+    content: "\f013";
+}
+
+.material-icons.people:before {
+    content: "\f0c0";
+}
+
+.material-icons.assessment:before {
+    content: "\f643";
+}
+
+.material-icons.live_tv:before {
+    content: "\f401";
+}
+
+.material-icons.dvr:before {
+    content: "\f0a0";
+}
+
+.material-icons.person:before {
+    content: "\f007";
+}
+
+.material-icons.play_circle_filled:before {
+    content: "\f144";
+}
+
+.material-icons.closed_caption:before {
+    content: "\f20a";
+}
+
+.listItemIcon {
+    padding: 10px 10px 0px 0px;
+    border-radius: 0 !important;
+}
+
+.material-icons.tap_and_play:before {
+    content: "\e012";
+}
+
+.material-icons.devices:before {
+    content: "\f87a";
+}
+
+.material-icons.input:before {
+    content: "\f090";
+}
+
+.material-icons.cloud:before {
+    content: "\f0c2";
+}
+
+.material-icons.vpn_key:before {
+    content: "\f084";
+}
+
+.material-icons.bug_report:before {
+    content: "\f188";
+}
+
+.material-icons.shopping_cart:before {
+    content: "\f07a";
+}
+
+.material-icons.schedule:before {
+    content: "\f073";
+}
+
+.material-icons.folder_open:before {
+    content: "\f07c";
+}
+
+.material-icons.keyboard_arrow_down:before,
+.material-icons.expand_more:before {
+    content: "\f078";
+}
+
+.material-icons.keyboard_arrow_up:before {
+    content: "\f077";
+}
+
+.material-icons.add:before {
+    content: "\f067";
+}
+
+.material-icons.extension:before {
+    content: "\f12e";
+}
+
+.material-icons.open_in_new:before {
+    content: "\f35d";
+}
+
+.material-icons.view_comfy:before {
+    content: "\f00a";
+}
+
+.material-icons.filter_list:before {
+    content: "\f0b0";
+}
+
+.material-icons.sort_by_alpha:before {
+    content: "\f0dc";
+}
+
+.material-icons.arrow_forward:before {
+    content: "\f061";
+}
+
+.material-icons.chevron_left:before {
+    content: "\f0d9";
+}
+
+.material-icons.chevron_right:before {
+    content: "\f0da";
+}
+
+.material-icons.image:before {
+    content: "\f8c4";
+}
+
+.material-icons.refresh:before {
+    content: "\f2f9";
+}
+
+.material-icons.playlist_add:before {
+    content: "\f8c9";
+}
+
+.material-icons.skip_previous:before {
+    content: "\f048";
+}
+
+.material-icons.fast_rewind:before {
+    content: "\f04a";
+}
+
+.material-icons.fast_forward:before {
+    content: "\f04e";
+}
+
+.material-icons.audiotrack:before {
+    content: "\f8cf";
+}
+
+.material-icons.fiber_manual_record:before,
+.material-icons.airplay:before,
+.material-icons.picture_in_picture_alt:before {
+    font-family: 'Material Icons';
+}
+
+.material-icons.fullscreen:before {
+    content: "\f065";
+}
+
+.material-icons.volume_off:before {
+    content: "\f6a9";
+}
+
+.material-icons.volume_up:before {
+    content: "\f028";
+}
+
+.material-icons.star:before {
+    content: "\f005";
+}
+
+.material-icons.message::before {
+    content: "\f1d8";
+}
+
+.material-icons.add_circle::before {
+    content: "\f055";
+}
+
+.sectionTitle+.material-icons.chevron_right {
+    margin-left: 1em;
+}
+
+.material-icons.pause::before {
+    content: "\f04c";
+}
+
+.material-icons.skip_next::before {
+    content: "\f051";
+}
+
+.material-icons.repeat::before {
+    content: "\f363";
+}
+
+.material-icons.repeat_one::before {
+    content: "\f366";
+}
+
+.material-icons.drag_handle::before {
+    content: "\f7a4";
+}
+
+.material-icons.save::before {
+    content: "\f0c7";
+}
+
+.material-icons.remove_circle_outline::before {
+    content: "\f056";
+}
+
+.material-icons.forward_30::before {
+    content: "\f04e";
+}
+
+.material-icons.replay_10::before {
+    content: "\f04a";
+}
+
+.material-icons.pause_circle_filled::before {
+    content: "\f28b";
+}
+
+.material-icons.file_download::before {
+    content: "\f56d";
+}
+
+.material-icons.content_copy::before {
+    content: "\f0c5";
+}
+
+.material-icons.info::before {
+    content: "\f129";
+}
+
+.material-icons.album::before {
+    content: "\f89f";
+}
+
+.material-icons.notifications_off:before {
+    content: "\f1f6";
+}
+
+.selectArrowContainer {
+    height: 1.5em;
+    overflow: hidden;
+    margin-top: 1.9em;
+    margin-right: .2em;
+}
+
+.selectArrow {
+    margin-top: 0 !important;
+    font-size: 1.5em;
+}
