@@ -21,7 +21,7 @@ Wanna change your jellyfin icons look? If yes, you can use this to easily change
 </li>
 </ul>
 </div>
-  <h2>Font Awesome site:</h2>
+  <h2>Font Awesome Icon Pack[WIP]:</h2>
   <ul>
     <li>Solid - <code>@import url("https://prayag17.github.io/Jellyfin-Icons/Font%20Awesome/solid.css");</code></li>
     <li>Regular - <code>@import url("https://prayag17.github.io/Jellyfin-Icons/Font%20Awesome/regular.css");</code></li>
