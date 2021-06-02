@@ -272,8 +272,11 @@
     content: "\f8cf";
 }
 
+.material-icons.fiber_manual_record:before {
+    content: "\f111";
+}
+
 .material-icons.replay:before,
-.material-icons.fiber_manual_record:before,
 .material-icons.airplay:before,
 .material-icons.picture_in_picture_alt:before {
     font-family: 'Material Icons';
