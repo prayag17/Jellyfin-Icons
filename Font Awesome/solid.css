@@ -385,3 +385,7 @@
 .sectionTitle+.material-icons.chevron_right:before {
     content: "\f054";
 }
+
+.material-icons.fullscreen_exit:before {
+    content: "\f066";
+}
