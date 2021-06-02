@@ -389,3 +389,11 @@
 .material-icons.fullscreen_exit:before {
     content: "\f066";
 }
+
+.material-icons.pause_circle_outline:before {
+    content: "\f28b";
+}
+
+.material-icons.play_circle_outline:before {
+    content: "\f144";
+}
