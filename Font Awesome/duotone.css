@@ -340,7 +340,7 @@
 
 .material-icons.person:after {
     opacity: var(--opacity);
-    content: "10f007";
+    content: "\10f007";
 }
 
 .material-icons.play_circle_filled:before {
