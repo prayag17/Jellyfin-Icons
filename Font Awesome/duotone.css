@@ -1,0 +1,940 @@
+@import url("https://pro.fontawesome.com/releases/v5.15.3/css/all.css");
+.material-icons {
+    font-family: "Font Awesome 5 Duotone";
+    font-weight: 400;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    text-align: center;
+}
+
+:root {
+    --opacity: 0.4;
+}
+
+.material-icons.menu:before {
+    position: absolute;
+    content: "\f0c9";
+}
+
+.material-icons.menu:after {
+    opacity: var(--opacity);
+    content: "\10f0c9";
+}
+
+.material-icons.sync_disabled:before {
+    position: absolute;
+    content: "\f021";
+}
+
+.material-icons.sync_disabled:after {
+    opacity: var(--opacity);
+    content: "\10f021";
+}
+
+.material-icons.sync:before {
+    position: absolute;
+    content: "\f2f1";
+}
+
+.material-icons.sync:after {
+    opacity: var(--opacity);
+    content: "\10f2f1";
+}
+
+.material-icons.cast:before {
+    content: "\f838";
+    font-family: "Font Awesome 5 Brands";
+}
+
+.material-icons.search:before {
+    position: absolute;
+    content: "\f002";
+}
+
+.material-icons.search:after {
+    opacity: var(--opacity);
+    content: "\10f002";
+}
+
+.material-icons.home:before {
+    position: absolute;
+    content: "\f015";
+}
+
+.material-icons.home:after {
+    opacity: var(--opacity);
+    content: "\10f80b";
+}
+
+.material-icons.folder:before {
+    position: absolute;
+    content: "\f07b";
+}
+
+.material-icons.folder:after {
+    opacity: var(--opacity);
+    content: "\10f07b";
+}
+
+.material-icons.video_library:before {
+    position: absolute;
+    content: "\f3a0";
+}
+
+.material-icons.video_library:after {
+    opacity: var(--opacity);
+    content: "\10f3a0";
+}
+
+.material-icons.library_music:before {
+    position: absolute;
+    content: "\f001";
+}
+
+.material-icons.library_music:after {
+    opacity: var(--opacity);
+    content: "\10f001";
+}
+
+.material-icons.tv:before {
+    position: absolute;
+    content: "\f8e5";
+}
+
+.material-icons.tv:after {
+    opacity: var(--opacity);
+    content: "\10f8e5";
+}
+
+.material-icons.exit_to_app:before {
+    position: absolute;
+    content: "\f2f5";
+}
+
+.material-icons.exit_to_app:after {
+    opacity: var(--opacity);
+    content: "\10f2f5";
+}
+
+.material-icons.play_arrow:before {
+    position: absolute;
+    content: "\f04b";
+}
+
+.material-icons.play_arrow:after {
+    opacity: var(--opacity);
+    content: "\10f04b";
+}
+
+.material-icons.get_app:before {
+    position: absolute;
+    content: "\f019";
+}
+
+.material-icons.get_app:after {
+    opacity: var(--opacity);
+    content: "\10f019";
+}
+
+.material-icons.theaters:before {
+    position: absolute;
+    content: "\f008";
+}
+
+.material-icons.theaters:after {
+    opacity: var(--opacity);
+    content: "\10f008";
+}
+
+.material-icons.explore:before {
+    position: absolute;
+    content: "\f8ab";
+}
+
+.material-icons.explore:after {
+    opacity: var(--opacity);
+    content: "\10f8ab";
+}
+
+.material-icons.shuffle:before {
+    position: absolute;
+    content: "\f074";
+}
+
+.material-icons.shuffle:after {
+    opacity: var(--opacity);
+    content: "\10f074";
+}
+
+.material-icons.delete:before {
+    position: absolute;
+    content: "\f2ed";
+}
+
+.material-icons.delete:after {
+    opacity: var(--opacity);
+    content: "\10f2ed";
+}
+
+.material-icons.stop:before {
+    position: absolute;
+    content: "\f28d";
+}
+
+.material-icons.stop:after {
+    opacity: var(--opacity);
+    content: "\10f28d";
+}
+
+.material-icons.favorite:before {
+    position: absolute;
+    content: "\f004";
+}
+
+.material-icons.favorite:after {
+    opacity: var(--opacity);
+    content: "\10f004";
+}
+
+.material-icons.call_split:before {
+    position: absolute;
+    content: "\f126";
+}
+
+.material-icons.call_split:after {
+    opacity: var(--opacity);
+    content: "\10f126";
+}
+
+.material-icons.arrow_back:before {
+    position: absolute;
+    content: "\f060";
+}
+
+.material-icons.arrow_back:after {
+    opacity: var(--opacity);
+    content: "\10f060";
+}
+
+.material-icons.notifications::before {
+    position: absolute;
+    content: "\f0f3";
+}
+
+.material-icons.notifications::after {
+    opacity: var(--opacity);
+    content: "\10f0f3";
+}
+
+.material-icons.notifications_active:before {
+    position: absolute;
+    content: "\f8fa";
+}
+
+.material-icons.notifications_active:after {
+    opacity: var(--opacity);
+    content: "\10f8fa";
+}
+
+.material-icons.check:before {
+    position: absolute;
+    content: "\f00c";
+}
+
+.material-icons.check:after {
+    opacity: var(--opacity);
+    content: "\10f00c";
+}
+
+.material-icons.more_vert:before {
+    position: absolute;
+    content: "\f39c";
+}
+
+.material-icons.more_vert:after {
+    opacity: var(--opacity);
+    content: "\10f39c";
+}
+
+.material-icons.dashboard:before {
+    position: absolute;
+    content: "\f3fd";
+}
+
+.material-icons.dashboard:after {
+    opacity: var(--opacity);
+    content: "\10f3fd";
+}
+
+.material-icons.edit:before,
+.material-icons.mode_edit:before {
+    position: absolute;
+    content: "\f044";
+}
+
+.material-icons.edit:after,
+.material-icons.mode_edit:after {
+    opacity: var(--opacity);
+    content: '\10f044';
+}
+
+.material-icons.settings:before {
+    position: absolute;
+    content: "\f013";
+}
+
+.material-icons.settings:after {
+    opacity: var(--opacity);
+    content: "\10f013";
+}
+
+.material-icons.people:before {
+    position: absolute;
+    content: "\f0c0";
+}
+
+.material-icons.people:after {
+    opacity: var(--opacity);
+    content: "\10f0c0";
+}
+
+.material-icons.assessment:before {
+    position: absolute;
+    content: "\f643";
+}
+
+.material-icons.assessment:after {
+    opacity: var(--opacity);
+    content: "\10f643";
+}
+
+.material-icons.live_tv:before {
+    position: absolute;
+    content: "\f401";
+}
+
+.material-icons.live_tv:after {
+    opacity: var(--opacity);
+    content: "\10f401";
+}
+
+.material-icons.dvr:before {
+    position: absolute;
+    content: "\f0a0";
+}
+
+.material-icons.dvr:after {
+    opacity: var(--opacity);
+    content: "\10f0a0";
+}
+
+.material-icons.person:before {
+    position: absolute;
+    content: "\f007";
+}
+
+.material-icons.person:after {
+    opacity: var(--opacity);
+    content: "10f007";
+}
+
+.material-icons.play_circle_filled:before {
+    position: absolute;
+    content: "\f144";
+}
+
+.material-icons.play_circle_filled:after {
+    opacity: var(--opacity);
+    content: "\10f144";
+}
+
+.material-icons.closed_caption:before {
+    position: absolute;
+    content: "\f20a";
+}
+
+.material-icons.closed_caption:after {
+    opacity: var(--opacity);
+    content: "\10f20a";
+}
+
+.listItemIcon {
+    padding: 10px 10px 0px 0px;
+    border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -ms-border-radius: 0 !important;
+    -o-border-radius: 0 !important;
+}
+
+.material-icons.tap_and_play:before {
+    position: absolute;
+    content: "\e012";
+}
+
+.material-icons.tap_and_play:after {
+    opacity: var(--opacity);
+    content: "\10e012";
+}
+
+.material-icons.devices:before {
+    position: absolute;
+    content: "\f87a";
+}
+
+.material-icons.devices:after {
+    opacity: var(--opacity);
+    content: "\10f87a";
+}
+
+.material-icons.input:before {
+    position: absolute;
+    content: "\f090";
+}
+
+.material-icons.input:after {
+    opacity: var(--opacity);
+    content: "\10f090";
+}
+
+.material-icons.cloud:before {
+    position: absolute;
+    content: "\f0c2";
+}
+
+.material-icons.cloud:after {
+    opacity: var(--opacity);
+    content: "\10f0c2";
+}
+
+.material-icons.vpn_key:before {
+    position: absolute;
+    content: "\f084";
+}
+
+.material-icons.vpn_key:after {
+    opacity: var(--opacity);
+    content: "\10f084";
+}
+
+.material-icons.bug_report:before {
+    position: absolute;
+    content: "\f188";
+}
+
+.material-icons.bug_report:after {
+    opacity: var(--opacity);
+    content: "\10f188";
+}
+
+.material-icons.shopping_cart:before {
+    position: absolute;
+    content: "\f07a";
+}
+
+.material-icons.shopping_cart:after {
+    opacity: var(--opacity);
+    content: "\10f07a";
+}
+
+.material-icons.schedule:before {
+    position: absolute;
+    content: "\f073";
+}
+
+.material-icons.schedule:after {
+    opacity: var(--opacity);
+    content: "\10f073";
+}
+
+.material-icons.folder_open:before {
+    position: absolute;
+    content: "\f07c";
+}
+
+.material-icons.folder_open::after {
+    opacity: var(--opacity);
+    content: "\10f07c";
+}
+
+.material-icons.keyboard_arrow_down:before,
+.material-icons.expand_more:before {
+    position: absolute;
+    content: "\f078";
+}
+
+.material-icons.keyboard_arrow_down::after,
+.material-icons.expand_more::after {
+    opacity: var(--opacity);
+    content: "\10f078";
+}
+
+.material-icons.keyboard_arrow_up:before {
+    position: absolute;
+    content: "\f077";
+}
+
+.material-icons.keyboard_arrow_up::after {
+    opacity: var(--opacity);
+    content: "\10f077";
+}
+
+.material-icons.add:before {
+    position: absolute;
+    content: "\f067";
+}
+
+.material-icons.add::after {
+    opacity: var(--opacity);
+    content: "\10f067";
+}
+
+.material-icons.extension:before {
+    position: absolute;
+    content: "\f12e";
+}
+
+.material-icons.extension::after {
+    opacity: var(--opacity);
+    content: "\10f12e";
+}
+
+.material-icons.open_in_new:before {
+    position: absolute;
+    content: "\f35d";
+}
+
+.material-icons.open_in_new::after {
+    opacity: var(--opacity);
+    content: "\10f35d";
+}
+
+.material-icons.view_comfy:before {
+    position: absolute;
+    content: "\f00a";
+}
+
+.material-icons.view_comfy::after {
+    opacity: var(--opacity);
+    content: "\10f00a";
+}
+
+.material-icons.filter_list:before {
+    position: absolute;
+    content: "\f0b0";
+}
+
+.material-icons.filter_list::after {
+    opacity: var(--opacity);
+    content: "\10f0b0";
+}
+
+.material-icons.sort_by_alpha:before {
+    position: absolute;
+    content: "\f0dc";
+}
+
+.material-icons.sort_by_alpha::after {
+    opacity: var(--opacity);
+    content: "\10f0dc";
+}
+
+.material-icons.arrow_forward:before {
+    position: absolute;
+    content: "\f061";
+}
+
+.material-icons.arrow_forward::after {
+    opacity: var(--opacity);
+    content: "\10f061";
+}
+
+.material-icons.chevron_left:before {
+    position: absolute;
+    content: "\f0d9";
+}
+
+.material-icons.chevron_left::after {
+    opacity: var(--opacity);
+    content: "\10f0d9";
+}
+
+.material-icons.chevron_right:before {
+    position: absolute;
+    content: "\f0da";
+}
+
+.material-icons.chevron_right::after {
+    opacity: var(--opacity);
+    content: "\10f0da";
+}
+
+.material-icons.image:before {
+    position: absolute;
+    content: "\f8c4";
+}
+
+.material-icons.image::after {
+    opacity: var(--opacity);
+    content: "\10f8c4";
+}
+
+.material-icons.refresh:before {
+    position: absolute;
+    content: "\f2f9";
+}
+
+.material-icons.refresh::after {
+    opacity: var(--opacity);
+    content: "\10f2f9";
+}
+
+.material-icons.playlist_add:before {
+    position: absolute;
+    content: "\f8c9";
+}
+
+.material-icons.playlist_add::after {
+    opacity: var(--opacity);
+    content: "\10f8c9";
+}
+
+.material-icons.skip_previous:before {
+    position: absolute;
+    content: "\f048";
+}
+
+.material-icons.skip_previous::after {
+    opacity: var(--opacity);
+    content: "\10f048";
+}
+
+.material-icons.fast_rewind:before {
+    position: absolute;
+    content: "\f04a";
+}
+
+.material-icons.fast_rewind::after {
+    opacity: var(--opacity);
+    content: "\10f04a";
+}
+
+.material-icons.fast_forward:before {
+    position: absolute;
+    content: "\f04e";
+}
+
+.material-icons.fast_forward::after {
+    opacity: var(--opacity);
+    content: "\10f04e";
+}
+
+.material-icons.audiotrack:before {
+    position: absolute;
+    content: "\f8cf";
+}
+
+.material-icons.audiotrack::after {
+    opacity: var(--opacity);
+    content: "\10f8cf";
+}
+
+.material-icons.fiber_manual_record:before {
+    position: absolute;
+    content: "\f111";
+}
+
+.material-icons.fiber_manual_record::after {
+    opacity: var(--opacity);
+    content: "\10f111";
+}
+
+.material-icons.airplay:before,
+.material-icons.picture_in_picture_alt:before {
+    font-family: 'Material Icons';
+}
+
+.material-icons.fullscreen:before {
+    position: absolute;
+    content: "\f065";
+}
+
+.material-icons.fullscreen::after {
+    opacity: var(--opacity);
+    content: "\10f065";
+}
+
+.material-icons.volume_off:before {
+    position: absolute;
+    content: "\f6a9";
+}
+
+.material-icons.volume_off::after {
+    opacity: var(--opacity);
+    content: "\10f6a9";
+}
+
+.material-icons.volume_up:before {
+    position: absolute;
+    content: "\f028";
+}
+
+.material-icons.volume_up::after {
+    opacity: var(--opacity);
+    content: "\10f028";
+}
+
+.material-icons.star:before {
+    position: absolute;
+    content: "\f005";
+}
+
+.material-icons.star::after {
+    opacity: var(--opacity);
+    content: "\10f005";
+}
+
+.material-icons.message::before {
+    position: absolute;
+    content: "\f1d8";
+}
+
+.material-icons.message::after {
+    opacity: var(--opacity);
+    content: "\10f1d8";
+}
+
+.material-icons.add_circle::before {
+    position: absolute;
+    content: "\f055";
+}
+
+.material-icons.add_circle::after {
+    opacity: var(--opacity);
+    content: "\10f055";
+}
+
+.sectionTitle+.material-icons.chevron_right {
+    margin-left: 1em;
+}
+
+.material-icons.pause::before {
+    position: absolute;
+    content: "\f04c";
+}
+
+.material-icons.pause::after {
+    opacity: var(--opacity);
+    content: "\10f04c";
+}
+
+.material-icons.skip_next::before {
+    position: absolute;
+    content: "\f051";
+}
+
+.material-icons.skip_next::after {
+    opacity: var(--opacity);
+    content: "\10f051";
+}
+
+.material-icons.repeat::before {
+    position: absolute;
+    content: "\f363";
+}
+
+.material-icons.repeat::after {
+    opacity: var(--opacity);
+    content: "\10f363";
+}
+
+.material-icons.repeat_one::before {
+    position: absolute;
+    content: "\f366";
+}
+
+.material-icons.repeat_one::after {
+    opacity: var(--opacity);
+    content: "\10f366";
+}
+
+.material-icons.drag_handle::before {
+    position: absolute;
+    content: "\f7a4";
+}
+
+.material-icons.drag_handle::after {
+    opacity: var(--opacity);
+    content: "\10f7a4";
+}
+
+.material-icons.save::before {
+    position: absolute;
+    content: "\f0c7";
+}
+
+.material-icons.save::after {
+    opacity: var(--opacity);
+    content: "\10f0c7";
+}
+
+.material-icons.remove_circle_outline::before {
+    position: absolute;
+    content: "\f056";
+}
+
+.material-icons.remove_circle_outline::after {
+    opacity: var(--opacity);
+    content: "\10f056";
+}
+
+.material-icons.forward_30::before {
+    position: absolute;
+    content: "\f04e";
+}
+
+.material-icons.forward_30::after {
+    opacity: var(--opacity);
+    content: "\10f04e";
+}
+
+.material-icons.replay_10::before {
+    position: absolute;
+    content: "\f04a";
+}
+
+.material-icons.replay_10::after {
+    opacity: var(--opacity);
+    content: "\10f04a";
+}
+
+.material-icons.pause_circle_filled::before {
+    position: absolute;
+    content: "\f28b";
+}
+
+.material-icons.pause_circle_filled::after {
+    opacity: var(--opacity);
+    content: "\10f28b";
+}
+
+.material-icons.file_download::before {
+    position: absolute;
+    content: "\f56d";
+}
+
+.material-icons.file_download::after {
+    opacity: var(--opacity);
+    content: "\10f56d";
+}
+
+.material-icons.content_copy::before {
+    position: absolute;
+    content: "\f0c5";
+}
+
+.material-icons.content_copy::after {
+    opacity: var(--opacity);
+    content: "\10f0c5";
+}
+
+.material-icons.info::before {
+    position: absolute;
+    content: "\f129";
+}
+
+.material-icons.info::after {
+    opacity: var(--opacity);
+    content: "\10f129";
+}
+
+.material-icons.album::before {
+    position: absolute;
+    content: "\f89f";
+}
+
+.material-icons.album::after {
+    opacity: var(--opacity);
+    content: "\10f89f";
+}
+
+.material-icons.notifications_off:before {
+    position: absolute;
+    content: "\f1f6";
+}
+
+.material-icons.notifications_off::after {
+    opacity: var(--opacity);
+    content: "\10f1f6";
+}
+
+.selectArrowContainer {
+    height: 1.5em;
+    overflow: hidden;
+    margin-top: 1.9em;
+    margin-right: .2em;
+}
+
+.selectArrow {
+    margin-top: 0 !important;
+    font-size: 1.5em;
+}
+
+.material-icons.close:before {
+    position: absolute;
+    content: "\f00d";
+}
+
+.material-icons.close::after {
+    opacity: var(--opacity);
+    content: "\10f00d";
+}
+
+.sectionTitle+.material-icons.chevron_right:before {
+    position: absolute;
+    content: "\f054";
+}
+
+.sectionTitle+.material-icons.chevron_right::after {
+    opacity: var(--opacity);
+    content: "\10f054";
+}
+
+.material-icons.fullscreen_exit:before {
+    position: absolute;
+    content: "\f066";
+}
+
+.material-icons.fullscreen_exit::after {
+    opacity: var(--opacity);
+    content: "\10f066";
+}
+
+.material-icons.pause_circle_outline:before {
+    position: absolute;
+    content: "\f28b";
+}
+
+.material-icons.pause_circle_outline::after {
+    opacity: var(--opacity);
+    content: "\10f28b";
+}
+
+.material-icons.play_circle_outline:before {
+    position: absolute;
+    content: "\f144";
+}
+
+.material-icons.play_circle_outline::after {
+    opacity: var(--opacity);
+    content: "\10f144";
+}
+
+#itemDetailPage .selectArrowContainer {
+    margin-top: 0 !important;
+}
