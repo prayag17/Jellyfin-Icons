@@ -401,3 +401,7 @@
 .material-icons.play_circle_outline:before {
     content: "\f144";
 }
+
+#itemDetailPage .selectArrowContainer {
+    margin-top: 0 !important;
+}
