@@ -405,3 +405,7 @@
 #itemDetailPage .selectArrowContainer {
     margin-top: 0 !important;
 }
+
+.material-icons.wifi::before {
+    content: "\f1eb";
+}

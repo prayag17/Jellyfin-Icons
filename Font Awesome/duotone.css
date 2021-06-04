@@ -938,3 +938,12 @@
 #itemDetailPage .selectArrowContainer {
     margin-top: 0 !important;
 }
+
+.material-icons.wifi::before {
+    position: absolute;
+    content: "\f1eb";
+}
+
+.material-icons.wifi::after {
+    content: "\10f1eb";
+}
