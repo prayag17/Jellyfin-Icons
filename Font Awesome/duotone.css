@@ -946,4 +946,5 @@
 
 .material-icons.wifi::after {
     content: "\10f1eb";
+    opacity: var(--opacity);
 }
