@@ -948,3 +948,21 @@
     content: "\10f1eb";
     opacity: var(--opacity);
 }
+
+.material-icons.info_outline:before {
+    content: "\f05a";
+}
+
+.material-icons.info_outline:after {
+    content: "\10f05a";
+    opacity: var(--opacity);
+}
+
+.material-icons.cloud_download:before {
+    content: "\f0ed";
+}
+
+.material-icons.cloud_download::after {
+    content: "\10f0ed";
+    opacity: var(--opacity);
+}

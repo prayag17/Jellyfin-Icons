@@ -408,3 +408,11 @@
 .material-icons.wifi::before {
     content: "\f1eb";
 }
+
+.material-icons.info_outline:before {
+    content: "\f05a";
+}
+
+.material-icons.cloud_download:before {
+    content: "\f0ed";
+}
