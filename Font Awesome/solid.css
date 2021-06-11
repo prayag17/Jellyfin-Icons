@@ -12,6 +12,12 @@
     text-align: center;
 }
 
+.material-icons.replay:before,
+.material-icons.airplay:before,
+.material-icons.picture_in_picture_alt:before {
+    font-family: 'Material Icons';
+}
+
 .material-icons.menu:before {
     content: "\f0c9";
 }
