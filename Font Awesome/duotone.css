@@ -382,11 +382,13 @@
     content: "\10e012";
 }
 
+.material-icons.devices_other:before,
 .material-icons.devices:before {
     position: absolute;
     content: "\f87a";
 }
 
+.material-icons.devices_other:after,
 .material-icons.devices:after {
     opacity: var(--opacity);
     content: "\10f87a";
@@ -965,4 +967,8 @@
 .material-icons.cloud_download::after {
     content: "\10f0ed";
     opacity: var(--opacity);
+}
+
+.lnkQuickConnectPreferences em {
+    font-family: 'Material Icons';
 }
