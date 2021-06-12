@@ -422,7 +422,6 @@
 .lnkQuickConnectPreferences em {
     font-family: 'Material Icons';
 }
-<<<<<<< HEAD
 
 .material-icons.call_merge:before {
     content: "\f387";
@@ -450,5 +449,3 @@
 .material-icons.photo:before {
     content: "\f03e";
 }
-=======
->>>>>>> ac4a1102e8cf8d7b429ca7f162747e02014249ba

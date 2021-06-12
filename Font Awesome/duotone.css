@@ -978,7 +978,6 @@
 .lnkQuickConnectPreferences em {
     font-family: 'Material Icons';
 }
-<<<<<<< HEAD
 
 .material-icons.call_merge:before {
     position: absolute;
@@ -1030,5 +1029,3 @@
     content: "\10f03e";
     opacity: var(--opacity);
 }
-=======
->>>>>>> ac4a1102e8cf8d7b429ca7f162747e02014249ba
