@@ -436,7 +436,7 @@
 }
 
 .listItemIcon {
-    padding: 0 !important;
+    padding: 0.25em !important;
     width: -webkit-fit-content !important;
     width: -moz-fit-content !important;
     width: fit-content !important;
