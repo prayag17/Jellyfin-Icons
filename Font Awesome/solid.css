@@ -12,6 +12,12 @@
     text-align: center;
 }
 
+.material-icons.replay:before,
+.material-icons.airplay:before,
+.material-icons.picture_in_picture_alt:before {
+    font-family: 'Material Icons';
+}
+
 .material-icons.menu:before {
     content: "\f0c9";
 }
@@ -416,6 +422,7 @@
 .lnkQuickConnectPreferences em {
     font-family: 'Material Icons';
 }
+<<<<<<< HEAD
 
 .material-icons.call_merge:before {
     content: "\f387";
@@ -443,3 +450,5 @@
 .material-icons.photo:before {
     content: "\f03e";
 }
+=======
+>>>>>>> ac4a1102e8cf8d7b429ca7f162747e02014249ba
