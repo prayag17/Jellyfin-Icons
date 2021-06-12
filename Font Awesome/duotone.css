@@ -972,3 +972,54 @@
 .lnkQuickConnectPreferences em {
     font-family: 'Material Icons';
 }
+
+.material-icons.call_merge:before {
+    position: absolute;
+    content: "\f387";
+}
+
+.material-icons.call_merge:after {
+    content: "\10f387";
+    opacity: var(--opacity);
+}
+
+.material-icons.check_box:before {
+    content: "\f14a";
+    position: absolute;
+}
+
+.material-icons.check_box::after {
+    content: "\10f14a";
+    opacity: var(--opacity);
+}
+
+.material-icons.check_box_outline_blank:before {
+    position: absolute;
+    content: "\f0c8";
+}
+
+.material-icons.check_box_outline_blank::after {
+    content: "\10f0c8";
+    opacity: var(--opacity);
+}
+
+.listItemIcon {
+    padding: 0 !important;
+    width: -webkit-fit-content !important;
+    width: -moz-fit-content !important;
+    width: fit-content !important;
+    height: -webkit-fit-content !important;
+    height: -moz-fit-content !important;
+    height: fit-content !important;
+    border-radius: 0 !important;
+}
+
+.material-icons.photo:before {
+    content: "\f03e";
+    position: absolute;
+}
+
+.material-icons.photo::after {
+    content: "\10f03e";
+    opacity: var(--opacity);
+}

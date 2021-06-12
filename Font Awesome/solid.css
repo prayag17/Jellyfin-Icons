@@ -158,11 +158,6 @@
     content: "\f20a";
 }
 
-.listItemIcon {
-    padding: 10px 10px 0px 0px;
-    border-radius: 0 !important;
-}
-
 .material-icons.tap_and_play:before {
     content: "\e012";
 }
@@ -420,4 +415,31 @@
 
 .lnkQuickConnectPreferences em {
     font-family: 'Material Icons';
+}
+
+.material-icons.call_merge:before {
+    content: "\f387";
+}
+
+.material-icons.check_box:before {
+    content: "\f14a";
+}
+
+.material-icons.check_box_outline_blank:before {
+    content: "\f0c8";
+}
+
+.listItemIcon {
+    padding: 0 !important;
+    width: -webkit-fit-content !important;
+    width: -moz-fit-content !important;
+    width: fit-content !important;
+    height: -webkit-fit-content !important;
+    height: -moz-fit-content !important;
+    height: fit-content !important;
+    border-radius: 0 !important;
+}
+
+.material-icons.photo:before {
+    content: "\f03e";
 }
