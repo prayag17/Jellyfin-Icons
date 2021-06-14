@@ -453,3 +453,15 @@
     content: "\f063";
     margin-left: 0.2em;
 }
+
+.material-icons.do_not_disturb:before {
+    content: "\f05e";
+}
+
+.material-icons.lock:before {
+    content: "\f30d";
+}
+
+.material-icons.clear_all:before {
+    content: "\f8d1";
+}

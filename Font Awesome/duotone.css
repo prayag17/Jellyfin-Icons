@@ -1049,3 +1049,33 @@
     content: "\10f063";
     opacity: var(--opacity);
 }
+
+.material-icons.do_not_disturb:before {
+    content: "\f05e";
+    position: absolute;
+}
+
+.material-icons.do_not_disturb:after {
+    content: "\10f05e";
+    opacity: var(--opacity);
+}
+
+.material-icons.lock:before {
+    content: "\f30d";
+    position: absolute;
+}
+
+.material-icons.lock::after {
+    content: "\10f30d";
+    opacity: var(--opacity);
+}
+
+.material-icons.clear_all:before {
+    content: "\f8d1";
+    position: absolute;
+}
+
+.material-icons.clear_all::after {
+    content: "\10f8d1";
+    opacity: var(--opacity);
+}
