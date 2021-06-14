@@ -1029,3 +1029,23 @@
     content: "\10f03e";
     opacity: var(--opacity);
 }
+
+.material-icons.arrow_upward::before {
+    content: "\f062";
+    position: absolute;
+}
+
+.material-icons.arrow_upward::after {
+    content: "\10f062";
+    opacity: var(--opacity);
+}
+
+.material-icons.arrow_downward::before {
+    content: "\f063";
+    position: absolute;
+}
+
+.material-icons.arrow_downward::after {
+    content: "\10f063";
+    opacity: var(--opacity);
+}

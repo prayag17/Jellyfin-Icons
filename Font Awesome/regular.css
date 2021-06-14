@@ -443,3 +443,13 @@
 .material-icons.photo:before {
     content: "\f03e";
 }
+
+.material-icons.arrow_upward::before {
+    content: "\f062";
+    margin-left: 0.2em;
+}
+
+.material-icons.arrow_downward::before {
+    content: "\f063";
+    margin-left: 0.2em;
+}
