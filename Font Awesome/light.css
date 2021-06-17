@@ -471,3 +471,7 @@
 .material-icons.clear_all:before {
     content: "\f8d1";
 }
+
+.material-icons.library_books:before {
+    content: "\f5db";
+}

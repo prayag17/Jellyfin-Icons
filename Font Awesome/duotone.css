@@ -1079,3 +1079,13 @@
     content: "\10f8d1";
     opacity: var(--opacity);
 }
+
+.material-icons.library_books:before {
+    content: "\f5db";
+    position: absolute;
+}
+
+.material-icons.library_books::after {
+    content: "\10f5db";
+    opacity: var(--opacity);
+}
