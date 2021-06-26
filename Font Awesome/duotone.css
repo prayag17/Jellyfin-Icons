@@ -1096,6 +1096,16 @@
 }
 
 .material-icons.share::after {
-  content: "\f1e0";
+  content: "\10f1e0";
+  opacity: var(--opacity);
+}
+
+.material-icons.check_circle_outline:before {
+  content: "\f058";
+  position: absolute;
+}
+
+.material-icons.check_circle_outline:after {
+  content: "\10f058";
   opacity: var(--opacity);
 }

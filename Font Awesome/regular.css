@@ -473,3 +473,7 @@
 .material-icons.share:before {
   content: "\f1e0";
 }
+
+.material-icons.check_circle_outline:before {
+  content: "\f058";
+}
