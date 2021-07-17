@@ -477,3 +477,7 @@
 .material-icons.check_circle_outline:before {
   content: "\f058";
 }
+
+.material-icons.cancel::before {
+  content: "\f057";
+}

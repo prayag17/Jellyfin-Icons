@@ -1109,3 +1109,13 @@
   content: "\10f058";
   opacity: var(--opacity);
 }
+
+.material-icons.cancel::before {
+  content: "\f057";
+  position: absolute;
+}
+
+.material-icons.cancel::after {
+  content: "\10f057";
+  opacity: var(--opacity);
+}
