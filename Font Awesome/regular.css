@@ -481,3 +481,15 @@
 .material-icons.cancel::before {
   content: "\f057";
 }
+
+.material-icons.queue_music:before {
+  content: "\f8c9";
+}
+
+.osdMediaStatus .material-icons.animate.autorenew {
+  margin-right: 5px;
+}
+
+.material-icons.autorenew:before {
+  content: "\f2f1";
+}

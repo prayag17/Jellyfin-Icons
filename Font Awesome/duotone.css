@@ -1119,3 +1119,27 @@
   content: "\10f057";
   opacity: var(--opacity);
 }
+
+.material-icons.queue_music:before {
+  content: "\f8c9";
+  position: absolute;
+}
+
+.material-icons.queue_music::after {
+  content: "\10f8c9";
+  opacity: var(--opacity);
+}
+
+.osdMediaStatus .material-icons.animate.autorenew {
+  margin-right: 5px;
+}
+
+.material-icons.autorenew:before {
+  content: "\f2f1";
+  position: absolute;
+}
+
+.material-icons.autorenew::after {
+  content: "\10f2f1";
+  opacity: var(--opacity);
+}
