@@ -1143,3 +1143,13 @@
   content: "\10f2f1";
   opacity: var(--opacity);
 }
+
+.material-icons.computer:before {
+  content: "\f109";
+  position: absolute;
+}
+
+.material-icons.computer::after {
+  content: "\10f109";
+  opacity: var(--opacity);
+}

@@ -499,3 +499,7 @@
 .material-icons.autorenew:before {
   content: "\f2f1";
 }
+
+.material-icons.computer:before {
+  content: "\f109";
+}
