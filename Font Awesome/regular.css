@@ -497,3 +497,7 @@
 .material-icons.computer:before {
   content: "\f109";
 }
+
+.material-icons.smartphone:before {
+  content: "\f3ce";
+}

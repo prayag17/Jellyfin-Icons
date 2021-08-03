@@ -1153,3 +1153,13 @@
   content: "\10f109";
   opacity: var(--opacity);
 }
+
+.material-icons.smartphone:before {
+  content: "\f3ce";
+  position: absolute;
+}
+
+.material-icons.smartphone::after {
+  content: "\10f3ce";
+  opacity: var(--opacity);
+}
