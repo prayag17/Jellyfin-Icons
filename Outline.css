@@ -6,7 +6,7 @@
 }
 
 .material-icons {
-    font-family: 'Material Icons Outlined';
+    font-family: 'Material Icons Outlined' !important;
     font-weight: normal;
     font-style: normal;
     line-height: 1;
