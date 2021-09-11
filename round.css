@@ -6,7 +6,7 @@
 }
 
 .material-icons {
-  font-family: 'Material Icons Round';
+  font-family: 'Material Icons Round' !important;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
