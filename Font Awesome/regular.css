@@ -501,3 +501,7 @@
 .material-icons.smartphone:before {
   content: "\f3ce";
 }
+
+.material-icons.remove_circle:before {
+  content: "\f056";
+}
