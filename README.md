@@ -1,7 +1,8 @@
 <h1 align="center">Jellyfin Icons</h1>
 <div class="info">
 Wanna change your jellyfin icons look? If yes, you can use this to easily change your Jellyfin icon look without any modifications to the internl config!!
-<br>Note: The material icon pack won't work with JellySkin|Font Awesome Light is been used in JellySkin
+<br>Note: The material icon pack won't work with JellySkin|Font Awesome Light is been used in JellySkin<br>
+<h3>To get a preview use JellySkin or go to https://fontawesome.com/v5.15/icons?d=gallery&p=2 and https://fonts.google.com/icons?selected=Material+Icons<br>
 </div>
 <div class="setup">
 <h2 align="center">Setup/Installation</h2>
