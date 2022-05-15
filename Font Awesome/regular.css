@@ -1,4 +1,4 @@
-@import url("https://site-assets.fontawesome.com/releases/v6.1.0/css/all.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css");
 .material-icons {
   font-family: "Font Awesome 6 Pro";
   font-weight: 400;
@@ -12,8 +12,24 @@
   text-align: center;
 }
 
+.material-icons.picture_in_picture_alt:before {
+  font-family: "Material Icons";
+}
+
+.material-icons.airplay:before {
+  content: "\e089";
+}
+
+.material-icons.replay:before {
+  content: "\f2f9";
+}
+
 .material-icons.menu:before {
   content: "\f0c9";
+}
+
+.material-icons.groups:before {
+  content: "\f0c0";
 }
 
 .material-icons.sync_disabled:before {
@@ -25,8 +41,7 @@
 }
 
 .material-icons.cast:before {
-  content: "\f838";
-  font-family: "Font Awesome 5 Brands";
+  content: "\e23e";
 }
 
 .material-icons.search:before {
@@ -159,7 +174,7 @@
 }
 
 .material-icons.tap_and_play:before {
-  content: "\e012";
+  content: "\e1ef";
 }
 
 .material-icons.devices_other:before,
@@ -270,11 +285,6 @@
 
 .material-icons.fiber_manual_record:before {
   content: "\f111";
-}
-
-.material-icons.airplay:before,
-.material-icons.picture_in_picture_alt:before {
-  font-family: "Material Icons";
 }
 
 .material-icons.fullscreen:before {
@@ -504,4 +514,8 @@
 
 .material-icons.remove_circle:before {
   content: "\f056";
+}
+
+.material-icons.keyboard:before {
+  content: "\f11c";
 }
