@@ -217,13 +217,13 @@
   content: "\10f126";
 }
 
-.material-icons.arrow_left:before,
+.material-icons.keyboard_arrow_left:before,
 .material-icons.arrow_back:before {
   position: absolute;
   content: "\f060";
 }
 
-.material-icons.arrow_left:after,
+.material-icons.keyboard_arrow_left:after,
 .material-icons.arrow_back:after {
   opacity: var(--opacity);
   content: "\10f060";
@@ -554,13 +554,13 @@
   content: "\10f0dc";
 }
 
-.material-icons.arrow_right:before,
+.material-icons.keyboard_arrow_right:before,
 .material-icons.arrow_forward:before {
   position: absolute;
   content: "\f061";
 }
 
-.material-icons.arrow_right::after,
+.material-icons.keyboard_arrow_right::after,
 .material-icons.arrow_forward::after {
   opacity: var(--opacity);
   content: "\10f061";
