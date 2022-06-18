@@ -1173,3 +1173,21 @@
   content: "\10f056";
   opacity: var(--opacity);
 }
+
+.material-icons.undo:before {
+  content: "\f0e2";
+}
+
+.material-icons.undo::after {
+  content: "\10f0e2";
+  opacity: var(--opacity);
+}
+
+.material-icons.redo:before {
+  content: "\f01e";
+}
+
+.material-icons.redo::after {
+  content: "\10f01e";
+  opacity: var(--opacity);
+}

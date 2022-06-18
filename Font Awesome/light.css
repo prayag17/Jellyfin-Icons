@@ -519,3 +519,11 @@
 .material-icons.keyboard:before {
   content: "\f11c";
 }
+
+.material-icons.undo:before {
+  content: "\f0e2";
+}
+
+.material-icons.redo:before {
+  content: "\f01e";
+}
