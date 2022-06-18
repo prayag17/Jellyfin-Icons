@@ -112,6 +112,7 @@
   content: "\f126";
 }
 
+.material-icons.arrow_left:before,
 .material-icons.arrow_back:before {
   content: "\f060";
 }
@@ -243,6 +244,7 @@
   content: "\f0dc";
 }
 
+.material-icons.arrow_right:before,
 .material-icons.arrow_forward:before {
   content: "\f061";
 }
