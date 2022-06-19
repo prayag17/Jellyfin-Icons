@@ -60,6 +60,18 @@
   content: "\f3a0";
 }
 
+.material-icons.video_settings:before {
+  content: "\f1de";
+}
+
+.material-icons.meeting_room:before {
+  content: "\f52b";
+}
+
+.material-icons.update:before {
+  content: "\f1da";
+}
+
 .material-icons.library_music:before {
   content: "\f001";
 }
