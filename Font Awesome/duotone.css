@@ -97,6 +97,36 @@
   content: "\10f3a0";
 }
 
+.material-icons.video_settings:before {
+  position: absolute;
+  content: "\f1de";
+}
+
+.material-icons.video_settings:after {
+  opacity: var(--opacity);
+  content: "\10f1de";
+}
+
+.material-icons.meeting_room:before {
+  position: absolute;
+  content: "\f52b";
+}
+
+.material-icons.meeting_room:after {
+  opacity: var(--opacity);
+  content: "\10f52b";
+}
+
+.material-icons.update:before {
+  position: absolute;
+  content: "\f1da";
+}
+
+.material-icons.update:after {
+  opacity: var(--opacity);
+  content: "\10f1da";
+}
+
 .material-icons.library_music:before {
   position: absolute;
   content: "\f001";
