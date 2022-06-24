@@ -17,7 +17,7 @@ Wanna change your jellyfin icons look? If yes, you can use this to easily change
 </li>
 <li>Add following CSS fro your selected icon style
 <ul>
-<li>Outline - <code>@import url(https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/Outline.css");</code></li>
+<li>Outline - <code>@import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/Outline.css");</code></li>
 <li>Rounded - <code>@import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/round.css");</code></li>
 <li>Sharp - <code>@import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/Sharp.css");</code></li>
 </ul>
