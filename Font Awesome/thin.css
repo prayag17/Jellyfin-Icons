@@ -1,543 +1,545 @@
+/** @format */
+
 @import url("https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css");
 .material-icons {
-  font-family: "Font Awesome 6 Pro";
-  font-weight: 100;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  line-height: 1;
-  text-align: center;
+	font-family: "Font Awesome 6 Pro";
+	font-weight: 100;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 1;
+	text-align: center;
 }
 
 .material-icons.picture_in_picture_alt:before {
-  font-family: "Material Icons";
+	font-family: "Material Icons";
 }
 
 .material-icons.airplay:before {
-  content: "\e089";
+	content: "\e089";
 }
 
 .material-icons.replay:before {
-  content: "\f2f9";
+	content: "\f2f9";
 }
 
 .material-icons.menu:before {
-  content: "\f0c9";
+	content: "\f0c9";
 }
 
 .material-icons.groups:before {
-  content: "\f0c0";
+	content: "\f0c0";
 }
 
 .material-icons.sync_disabled:before {
-  content: "\f021";
+	content: "\f021";
 }
 
 .material-icons.sync:before {
-  content: "\f2f1";
+	content: "\f2f1";
 }
 
 .material-icons.cast:before {
-  content: "\f838";
+	content: "\e23e";
 }
 
 .material-icons.search:before {
-  content: "\f002";
+	content: "\f002";
 }
 
 .material-icons.home:before {
-  content: "\f015";
+	content: "\f015";
 }
 
 .material-icons.folder:before {
-  content: "\f07b";
+	content: "\f07b";
 }
 
 .material-icons.video_library:before {
-  content: "\f3a0";
+	content: "\f3a0";
 }
 
 .material-icons.video_settings:before {
-  content: "\f1de";
+	content: "\f1de";
 }
 
 .material-icons.meeting_room:before {
-  content: "\f52b";
+	content: "\f52b";
 }
 
 .material-icons.update:before {
-  content: "\f1da";
+	content: "\f1da";
 }
 
 .material-icons.library_music:before {
-  content: "\f001";
+	content: "\f001";
 }
 
 .material-icons.tv:before {
-  content: "\f8e5";
+	content: "\f8e5";
 }
 
 .material-icons.exit_to_app:before {
-  content: "\f2f5";
+	content: "\f2f5";
 }
 
 .material-icons.play_arrow:before {
-  content: "\f04b";
+	content: "\f04b";
 }
 
 .material-icons.get_app:before {
-  content: "\f019";
+	content: "\f019";
 }
 
 .material-icons.theaters:before {
-  content: "\f008";
+	content: "\f008";
 }
 
 .material-icons.explore:before {
-  content: "\f8ab";
+	content: "\f8ab";
 }
 
 .material-icons.shuffle:before {
-  content: "\f074";
+	content: "\f074";
 }
 
 .material-icons.delete:before {
-  content: "\f2ed";
+	content: "\f2ed";
 }
 
 .material-icons.stop:before {
-  content: "\f28d";
+	content: "\f28d";
 }
 
 .material-icons.stop:before {
-  content: "\f28d";
+	content: "\f28d";
 }
 
 .material-icons.favorite:before {
-  content: "\f004";
+	content: "\f004";
 }
 
 .material-icons.call_split:before {
-  content: "\f126";
+	content: "\f126";
 }
 
 .material-icons.keyboard_arrow_left:before,
 .material-icons.arrow_back:before {
-  content: "\f060";
+	content: "\f060";
 }
 
 .material-icons.notifications::before {
-  content: "\f0f3";
+	content: "\f0f3";
 }
 
 .material-icons.notifications_active:before {
-  content: "\f8fa";
+	content: "\f8fa";
 }
 
 .material-icons.check:before {
-  content: "\f00c";
+	content: "\f00c";
 }
 
 .material-icons.more_vert:before {
-  content: "\f39c";
+	content: "\f39c";
 }
 
 .material-icons.dashboard:before {
-  content: "\f3fd";
+	content: "\f3fd";
 }
 
 .material-icons.edit:before,
 .material-icons.mode_edit:before {
-  content: "\f044";
+	content: "\f044";
 }
 
 .material-icons.settings:before {
-  content: "\f013";
+	content: "\f013";
 }
 
 .material-icons.people:before {
-  content: "\f0c0";
+	content: "\f0c0";
 }
 
 .material-icons.assessment:before {
-  content: "\f643";
+	content: "\f643";
 }
 
 .material-icons.live_tv:before {
-  content: "\f401";
+	content: "\f401";
 }
 
 .material-icons.dvr:before {
-  content: "\f0a0";
+	content: "\f0a0";
 }
 
 .material-icons.person:before {
-  content: "\f007";
+	content: "\f007";
 }
 
 .material-icons.play_circle_filled:before {
-  content: "\f144";
+	content: "\f144";
 }
 
 .material-icons.closed_caption:before {
-  content: "\f20a";
+	content: "\f20a";
 }
 
 .material-icons.tap_and_play:before {
-  content: "\e1ef";
+	content: "\e1ef";
 }
 
 .material-icons.devices_other:before,
 .material-icons.devices:before {
-  content: "\f87a";
+	content: "\f87a";
 }
 
 .material-icons.input:before {
-  content: "\f090";
+	content: "\f090";
 }
 
 .material-icons.cloud:before {
-  content: "\f0c2";
+	content: "\f0c2";
 }
 
 .material-icons.vpn_key:before {
-  content: "\f084";
+	content: "\f084";
 }
 
 .material-icons.bug_report:before {
-  content: "\f188";
+	content: "\f188";
 }
 
 .material-icons.shopping_cart:before {
-  content: "\f07a";
+	content: "\f07a";
 }
 
 .material-icons.schedule:before {
-  content: "\f073";
+	content: "\f073";
 }
 
 .material-icons.folder_open:before {
-  content: "\f07c";
+	content: "\f07c";
 }
 
 .material-icons.keyboard_arrow_down:before,
 .material-icons.expand_more:before {
-  content: "\f078";
+	content: "\f078";
 }
 
 .material-icons.keyboard_arrow_up:before {
-  content: "\f077";
+	content: "\f077";
 }
 
 .material-icons.add:before {
-  content: "\f067";
+	content: "\f067";
 }
 
 .material-icons.extension:before {
-  content: "\f12e";
+	content: "\f12e";
 }
 
 .material-icons.open_in_new:before {
-  content: "\f35d";
+	content: "\f35d";
 }
 
 .material-icons.view_comfy:before {
-  content: "\f00a";
+	content: "\f00a";
 }
 
 .material-icons.filter_list:before {
-  content: "\f0b0";
+	content: "\f0b0";
 }
 
 .material-icons.sort_by_alpha:before {
-  content: "\f0dc";
+	content: "\f0dc";
 }
 
 .material-icons.keyboard_arrow_right:before,
 .material-icons.arrow_forward:before {
-  content: "\f061";
+	content: "\f061";
 }
 
 .material-icons.chevron_left:before {
-  content: "\f0d9";
+	content: "\f0d9";
 }
 
 .material-icons.chevron_right:before {
-  content: "\f0da";
+	content: "\f0da";
 }
 
 .material-icons.image:before {
-  content: "\f8c4";
+	content: "\f8c4";
 }
 
 .material-icons.refresh:before {
-  content: "\f2f9";
+	content: "\f2f9";
 }
 
 .material-icons.playlist_add:before {
-  content: "\f8c9";
+	content: "\f8c9";
 }
 
 .material-icons.skip_previous:before {
-  content: "\f048";
+	content: "\f048";
 }
 
 .material-icons.fast_rewind:before {
-  content: "\f04a";
+	content: "\f04a";
 }
 
 .material-icons.fast_forward:before {
-  content: "\f04e";
+	content: "\f04e";
 }
 
 .material-icons.audiotrack:before {
-  content: "\f8cf";
+	content: "\f8cf";
 }
 
 .material-icons.fiber_manual_record:before {
-  content: "\f111";
+	content: "\f111";
 }
 
 .material-icons.fullscreen:before {
-  content: "\f065";
+	content: "\f065";
 }
 
 .material-icons.volume_off:before {
-  content: "\f6a9";
+	content: "\f6a9";
 }
 
 .material-icons.volume_up:before {
-  content: "\f028";
+	content: "\f028";
 }
 
 .material-icons.star:before {
-  content: "\f005";
+	content: "\f005";
 }
 
 .material-icons.message::before {
-  content: "\f1d8";
+	content: "\f1d8";
 }
 
 .material-icons.add_circle::before {
-  content: "\f055";
+	content: "\f055";
 }
 
 .sectionTitle + .material-icons.chevron_right {
-  margin-left: 1em;
+	margin-left: 1em;
 }
 
 .material-icons.pause::before {
-  content: "\f04c";
+	content: "\f04c";
 }
 
 .material-icons.skip_next::before {
-  content: "\f051";
+	content: "\f051";
 }
 
 .material-icons.repeat::before {
-  content: "\f363";
+	content: "\f363";
 }
 
 .material-icons.repeat_one::before {
-  content: "\f366";
+	content: "\f366";
 }
 
 .material-icons.drag_handle::before {
-  content: "\f7a4";
+	content: "\f7a4";
 }
 
 .material-icons.save::before {
-  content: "\f0c7";
+	content: "\f0c7";
 }
 
 .material-icons.remove_circle_outline::before {
-  content: "\f056";
+	content: "\f056";
 }
 
 .material-icons.forward_30::before {
-  content: "\f04e";
+	content: "\f04e";
 }
 
 .material-icons.replay_10::before {
-  content: "\f04a";
+	content: "\f04a";
 }
 
 .material-icons.pause_circle_filled::before {
-  content: "\f28b";
+	content: "\f28b";
 }
 
 .material-icons.file_download::before {
-  content: "\f56d";
+	content: "\f56d";
 }
 
 .material-icons.content_copy::before {
-  content: "\f0c5";
+	content: "\f0c5";
 }
 
 .material-icons.info::before {
-  content: "\f129";
+	content: "\f129";
 }
 
 .material-icons.album::before {
-  content: "\f89f";
+	content: "\f89f";
 }
 
 .material-icons.notifications_off:before {
-  content: "\f1f6";
+	content: "\f1f6";
 }
 
 .selectArrowContainer {
-  height: 1.5em;
-  overflow: hidden;
-  margin-top: 1.9em;
-  margin-right: 0.2em;
+	height: 1.5em;
+	overflow: hidden;
+	margin-top: 1.9em;
+	margin-right: 0.2em;
 }
 
 .selectArrow {
-  margin-top: 0 !important;
-  font-size: 1.5em;
+	margin-top: 0 !important;
+	font-size: 1.5em;
 }
 
 .material-icons.close:before {
-  content: "\f00d";
+	content: "\f00d";
 }
 
 .sectionTitle + .material-icons.chevron_right:before {
-  content: "\f054";
+	content: "\f054";
 }
 
 .material-icons.fullscreen_exit:before {
-  content: "\f066";
+	content: "\f066";
 }
 
 .material-icons.pause_circle_outline:before {
-  content: "\f28b";
+	content: "\f28b";
 }
 
 .material-icons.play_circle_outline:before {
-  content: "\f144";
+	content: "\f144";
 }
 
 #itemDetailPage .selectArrowContainer {
-  margin-top: 0 !important;
+	margin-top: 0 !important;
 }
 
 .material-icons.wifi::before {
-  content: "\f1eb";
+	content: "\f1eb";
 }
 
 .material-icons.info_outline:before {
-  content: "\f05a";
+	content: "\f05a";
 }
 
 .material-icons.cloud_download:before {
-  content: "\f0ed";
+	content: "\f0ed";
 }
 
 .lnkQuickConnectPreferences em {
-  font-family: "Material Icons";
+	font-family: "Material Icons";
 }
 
 .material-icons.call_merge:before {
-  content: "\f387";
+	content: "\f387";
 }
 
 .material-icons.check_box:before {
-  content: "\f14a";
+	content: "\f14a";
 }
 
 .material-icons.check_box_outline_blank:before {
-  content: "\f0c8";
+	content: "\f0c8";
 }
 
 .listItemIcon {
-  padding: 0.25em !important;
-  width: -webkit-fit-content !important;
-  width: -moz-fit-content !important;
-  width: fit-content !important;
-  height: -webkit-fit-content !important;
-  height: -moz-fit-content !important;
-  height: fit-content !important;
-  border-radius: 0 !important;
+	padding: 0.25em !important;
+	width: -webkit-fit-content !important;
+	width: -moz-fit-content !important;
+	width: fit-content !important;
+	height: -webkit-fit-content !important;
+	height: -moz-fit-content !important;
+	height: fit-content !important;
+	border-radius: 0 !important;
 }
 
 .material-icons.photo:before {
-  content: "\f03e";
+	content: "\f03e";
 }
 
 .material-icons.arrow_upward::before {
-  content: "\f062";
-  margin-left: 0.2em;
+	content: "\f062";
+	margin-left: 0.2em;
 }
 
 .material-icons.arrow_downward::before {
-  content: "\f063";
-  margin-left: 0.2em;
+	content: "\f063";
+	margin-left: 0.2em;
 }
 
 .material-icons.do_not_disturb:before {
-  content: "\f05e";
+	content: "\f05e";
 }
 
 .material-icons.lock:before {
-  content: "\f30d";
+	content: "\f30d";
 }
 
 .material-icons.clear_all:before {
-  content: "\f8d1";
+	content: "\f8d1";
 }
 
 .material-icons.library_books:before {
-  content: "\f5db";
+	content: "\f5db";
 }
 
 .material-icons.share:before {
-  content: "\f1e0";
+	content: "\f1e0";
 }
 
 .material-icons.check_circle_outline:before {
-  content: "\f058";
+	content: "\f058";
 }
 
 .material-icons.cancel::before {
-  content: "\f057";
+	content: "\f057";
 }
 
 .material-icons.queue_music:before {
-  content: "\f8c9";
+	content: "\f8c9";
 }
 
 .osdMediaStatus .material-icons.animate.autorenew {
-  margin-right: 5px;
+	margin-right: 5px;
 }
 
 .material-icons.autorenew:before {
-  content: "\f2f1";
+	content: "\f2f1";
 }
 
 .material-icons.computer:before {
-  content: "\f109";
+	content: "\f109";
 }
 
 .material-icons.smartphone:before {
-  content: "\f3ce";
+	content: "\f3ce";
 }
 
 .material-icons.remove_circle:before {
-  content: "\f056";
+	content: "\f056";
 }
 
 .material-icons.keyboard:before {
-  content: "\f11c";
+	content: "\f11c";
 }
 
 .material-icons.undo:before {
-  content: "\f0e2";
+	content: "\f0e2";
 }
 
 .material-icons.redo:before {
-  content: "\f01e";
+	content: "\f01e";
 }
