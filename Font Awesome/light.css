@@ -543,3 +543,7 @@
 .material-icons.redo:before {
 	content: "\f01e";
 }
+
+.material-icons.view_list:before {
+	content: "\f03a";
+}
