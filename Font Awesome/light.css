@@ -1,6 +1,6 @@
 /** @format */
 
-@import url("https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css");
 .material-icons {
 	font-family: "Font Awesome 6 Pro";
 	font-weight: 300;
@@ -12,6 +12,7 @@
 	text-rendering: auto;
 	line-height: 1;
 	text-align: center;
+	width: 1.25em;
 }
 
 .material-icons.picture_in_picture_alt:before {
