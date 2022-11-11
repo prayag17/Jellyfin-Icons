@@ -458,9 +458,6 @@
 
 .listItemIcon {
 	padding: 0.25em !important;
-	width: -webkit-fit-content !important;
-	width: -moz-fit-content !important;
-	width: fit-content !important;
 	height: -webkit-fit-content !important;
 	height: -moz-fit-content !important;
 	height: fit-content !important;
