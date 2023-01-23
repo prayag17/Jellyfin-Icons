@@ -545,3 +545,7 @@
 .material-icons.view_list:before {
 	content: "\f03a";
 }
+
+.material-icons.movie:before {
+	content: "\f008";
+}
