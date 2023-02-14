@@ -549,3 +549,7 @@
 .material-icons.movie:before {
 	content: "\f008";
 }
+
+.material-icons.videocam:before {
+	content: "\f8a8";
+}
