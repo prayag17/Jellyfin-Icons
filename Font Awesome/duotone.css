@@ -1208,20 +1208,50 @@
   opacity: var(--opacity);
 }
 
+.material-icons.groups:before {
+  position: absolute;
+  content: "\f233";
+}
+
+.material-icons.groups:after {
+  opacity: var(--opacity);
+  content: "\10f233";
+}
+
 .material-icons.undo:before {
+  position: absolute;
   content: "\f0e2";
 }
 
 .material-icons.undo::after {
-  content: "\10f0e2";
   opacity: var(--opacity);
+  content: "\10f0e2";
 }
 
 .material-icons.redo:before {
+  position: absolute;
   content: "\f01e";
 }
 
 .material-icons.redo::after {
-  content: "\10f01e";
   opacity: var(--opacity);
+  content: "\10f01e";
 }
+
+.material-icons.keyboard:before {
+  position: absolute;
+  content: "\f11c";
+  }
+  .material-icons.keyboard:after {
+  opacity: var(--opacity);
+  content: "\10f11c";
+  }
+  
+  .material-icons.videocam:before {
+  position: absolute;
+  content: "\f8ec";
+  }
+  .material-icons.videocam:after {
+  opacity: var(--opacity);
+  content: "\10f8ec";
+  }
